@@ -24,7 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 ---
-
+https://github.com/VitoCesar/Personal_Portfolio/issues/1#issue-1345240728
 <img style="border-radius: 50%;" src="https://github.com/VitoCesar/Personal_Portfolio/issues/1#issue-1345240728" width="100px;" alt=""/>
 <sub><b>Vitor Cesar</b></sub>
 
